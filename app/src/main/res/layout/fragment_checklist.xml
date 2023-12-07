@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <!-- 항목 추가 버튼 -->
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="20dp"
+            android:backgroundTint="#4F86F7"
+            android:id="@+id/buttonAddItem"
+            android:text="여행 성격 및 분류 선택하기" />
+    </LinearLayout>
+
+
+
+
+    <!-- 준비물 제시 관련 요소들 -->
+    <!-- 생필품, 출입국 준비, 상비약 카테고리 -->
+
+    <!-- 카테고리에 해당하는 세부 추천 -->
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/listViewRecommendations" />
+
+</LinearLayout>

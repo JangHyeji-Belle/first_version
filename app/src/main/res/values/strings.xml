@@ -11,4 +11,17 @@
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">My Page</string>
     <string name="menu_setting">Setting</string>
+
+    <string-array name="country_names">
+        <item>도쿄</item>
+        <item>파리</item>
+        <item>뉴욕</item>
+        <!-- 원하는 다른 여행지 항목들을 추가할 수 있습니다 -->
+    </string-array>
+    <string-array name="travel_types">
+        <item>국내여행</item>
+        <item>해외여행</item>
+        <item>문화 여행</item>
+        <!-- 원하는 다른 여행 성격 항목들을 추가할 수 있습니다 -->
+    </string-array>
 </resources>
