@@ -12,6 +12,7 @@
     <string name="menu_slideshow">My Page</string>
     <string name="menu_setting">Setting</string>
 
+
     <string-array name="country_names">
         <item>도쿄</item>
         <item>파리</item>
@@ -24,4 +25,11 @@
         <item>문화 여행</item>
         <!-- 원하는 다른 여행 성격 항목들을 추가할 수 있습니다 -->
     </string-array>
+  
+    <string name="mypage_title01">내 체크리스트</string>
+    <string name="mypage_title02">알림 설정</string>
+    <string name="mypage_title03">버전 정보</string>
+    <string name="mypage_title04">이용 약관</string>
+    <string name="mypage_title05">개인정보처리방침</string>
+
 </resources>
