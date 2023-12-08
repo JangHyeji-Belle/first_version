@@ -13,6 +13,7 @@
     <EditText
         android:id="@+id/editTextTravelDate"
         style="@style/inputname"
+
         android:hint="여행 이름을 입력하세요." />
     <LinearLayout
         android:layout_gravity="center"
@@ -22,7 +23,8 @@
 
         <TextView
             style="@style/showtext"
-            android:text="여행지 선택 :  "/>
+            android:padding="10dp"
+            android:text="여행지 선택  :  "/>
 
         <Spinner
             android:id="@+id/spinner"
