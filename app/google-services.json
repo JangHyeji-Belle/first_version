@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "953401541955",
+    "project_id": "tripchecklist-8ebfe",
+    "storage_bucket": "tripchecklist-8ebfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953401541955:android:39fa68b50868d642799bf6",
+        "android_client_info": {
+          "package_name": "com.example.first_version.ui.home"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDylHOj5jDBT4RmgKdRmmk8o4gdWX-fxKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
